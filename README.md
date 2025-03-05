@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Python Basic-to-Advance](https://github.com/ahamadarsad/Python)
 
-- 🌱 I’m currently learning **HTML,CSS,Python,SQL**
+- 🌱 I’m currently learning ** HTML,  CSS,  Python,  SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahamadarsad/Responsive-Restaurant](https://github.com/ahamadarsad/Responsive-Restaurant)
 
