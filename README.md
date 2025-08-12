@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahamadarsad" alt="ahamadarsad" /></a> </p>
 
-- 🔭 I’m currently working on [Python Basic-to-Advance](https://github.com/ahamadarsad/Python)
+- 🔭 I’m currently working on [java-script].
 
 - 🌱 I’m currently learning ** HTML,  CSS,  Python,  SQL**
 
